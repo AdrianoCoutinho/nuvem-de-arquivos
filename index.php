@@ -237,6 +237,6 @@ $openDir->close();
 </div>
 
 <script src="js/custom-file-input.js"></script>
-	</body>
+</body>
 </html>
 
